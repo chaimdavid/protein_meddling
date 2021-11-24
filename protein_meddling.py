@@ -21,5 +21,4 @@ L4[1]=float(input('First weighing of protein 3 in gr:'))
 L4[2]=float(input('Second weighing of protein 3 in gr:'))
 L3=L1+L2+L4
 del L3[0:3]
-print('Reversed L3 now is',list(reversed(L3)))
-        
+print('Reversed L3 now is',list(reversed(L3)))     
